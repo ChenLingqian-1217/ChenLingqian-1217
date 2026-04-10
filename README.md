@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Stone Badge](https://stone.professorlee.work/api/stone/ChenLingqian-1217/ChenLingqian-1217)
 <!--
 **ChenLingqian-1217/ChenLingqian-1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
